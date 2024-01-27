@@ -7,6 +7,7 @@
     <list default="true" id="dae03800-f1dd-4d70-8aca-d3a58144dedf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../task01/jsrc/main/java/com/task01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../task01/jsrc/main/java/com/task01/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../task01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../task01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Java/AWS/aws-projects/task03"
   }
